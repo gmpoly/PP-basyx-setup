@@ -1,6 +1,6 @@
 @echo off
 echo Starte BaSyx Umgebung...
-cd /d "C:\Users\GEM\0 - PP\basyx-setup"
+cd /d "C:\00 - PP -Laptop\PP-basyx-setup"
 docker compose up -d
 echo BaSyx gestartet!
 pause
